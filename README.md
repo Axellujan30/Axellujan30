@@ -7,6 +7,6 @@
 - ⚡ Fun fact: ...
 
 <!---
-Axellujan30/Axellujan30 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Axellujan30/Axellujan30 is a ✨ special ✨ repository because its `https://github.com/Axellujan30/Axellujan30/releases` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
